@@ -11,3 +11,10 @@ div {
 .center {
     align-content: center;
 }
+
+.center {
+    display: block;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 50%;
+}
